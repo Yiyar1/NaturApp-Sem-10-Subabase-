@@ -1,4 +1,4 @@
-# NaturApp 🌿
+# NaturApp
 
 NaturApp es una aplicación móvil híbrida desarrollada con **React Native** y
 **Expo** para la venta y distribución de productos naturales y orgánicos.
@@ -138,10 +138,3 @@ Con el servidor corriendo:
   usa `src/services/apiService.js` (`name`, `price`, `image`, `category`,
   `stock`, `rating`, `benefits` en `products`; `total`, `address`,
   `status` en `orders`).
-
----
-
-## 📄 Licencia
-
-Proyecto académico/personal. Ajusta esta sección según corresponda
-(por ejemplo, MIT) si vas a compartir el repositorio públicamente.
